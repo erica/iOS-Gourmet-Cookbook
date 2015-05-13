@@ -1,0 +1,1 @@
+Use the OS X app to build samples for testing the detector (03 QR Code Detection). 

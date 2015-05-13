@@ -1,0 +1,30 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "image-universal-regularwidth-regularheight.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "image-universal@2x-regularwidth-regularheight-1.png"
+    },
+    {
+      "heightClass" : "compact",
+      "idiom" : "universal",
+      "filename" : "image-universal-regularwidth-compactheight.png",
+      "scale" : "1x"
+    },
+    {
+      "heightClass" : "compact",
+      "idiom" : "universal",
+      "filename" : "image-universal@2x-regularwidth-compactheight.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
