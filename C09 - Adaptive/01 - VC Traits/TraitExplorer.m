@@ -23,6 +23,7 @@
 {
     if (displayScale == 1.0) return @"1x";
     if (displayScale == 2.0) return @"2x";
+    if (displayScale == 3.0) return @"3x";
     if (displayScale == 0.0) return @"Unspecified";
     return @"Unknown";
 }
